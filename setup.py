@@ -8,7 +8,7 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 
 setup(
     name="ai-new-journey",
-    version="2.0.0",
+    version="2.1.0",
     author="AI新生教程",
     author_email="contact@ai-new-journey.com",
     description="《AI新生：从零到一的智能革命之旅》完整代码实现",
