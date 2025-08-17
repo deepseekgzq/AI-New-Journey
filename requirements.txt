@@ -1,0 +1,46 @@
+# AI新生：从零到一的智能革命之旅 - 依赖包
+
+# 基础数据科学库
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# 机器学习库
+scikit-learn>=1.0.0
+xgboost>=1.5.0
+
+# 深度学习框架
+tensorflow>=2.8.0
+torch>=1.11.0
+torchvision>=0.12.0
+
+# 自然语言处理
+transformers>=4.15.0
+nltk>=3.7
+spacy>=3.4.0
+
+# 数据可视化增强
+ipywidgets>=7.6.0
+jupyter>=1.0.0
+
+# 开发工具
+notebook>=6.4.0
+ipython>=7.30.0
+
+# 实用工具
+requests>=2.27.0
+pillow>=8.3.0
+opencv-python>=4.5.0
+
+# 数据处理
+openpyxl>=3.0.9
+xlrd>=2.0.1
+
+# 进度条
+tqdm>=4.62.0
+
+# 统计分析
+scipy>=1.7.0
+statsmodels>=0.13.0
